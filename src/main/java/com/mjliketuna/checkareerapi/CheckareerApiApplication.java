@@ -8,6 +8,7 @@ public class CheckareerApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(CheckareerApiApplication.class, args);
+
     }
 
 }
